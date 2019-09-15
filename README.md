@@ -10,3 +10,5 @@ Searchable locations
 Better UI
 
 Better React State Structure
+
+Groups by User (Backend implementation)
