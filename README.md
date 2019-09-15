@@ -6,5 +6,7 @@ This was my first time using Google APIs in an app instead of making separate ca
 
 ## Things to come:
 Searchable locations
+
 Better UI
+
 Better React State Structure
